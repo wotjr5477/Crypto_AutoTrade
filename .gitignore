@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ### JB
-upbit api.txt
+upbit_api.txt
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
