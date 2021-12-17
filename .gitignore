@@ -3,7 +3,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ### JB
-upbit_api.txt
+upbit_api_key.txt
+binance_api_key.txt
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
